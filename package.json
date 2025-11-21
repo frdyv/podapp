@@ -1,0 +1,12 @@
+{
+    "name": "k8s-js-demo",
+    "version": "1.0.0",
+    "description": "Simple Node.js app to deploy on a Kubernetes (k3s) cluster",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.19.0"
+    }
+}
